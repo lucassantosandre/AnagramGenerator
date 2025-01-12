@@ -67,6 +67,7 @@ Certifique-se de ter os seguintes itens instalados:
    ```bash
    mvn test
    ```
+![Execução Local](docs/media/local-exec.gif)
 
 ### 🤖 Pelo GitHub Actions
 
@@ -76,6 +77,7 @@ Certifique-se de ter os seguintes itens instalados:
 4. Clique em **Run Workflow** e insira a palavra desejada no campo de entrada.
 5. Visualize os resultados destacados no log da execução.
 
+![Execução pelo GitHub Actions](docs/media/actions-exec.gif)
 ---
 
 ## 🧪 Testes
